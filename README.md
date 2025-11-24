@@ -1,4 +1,4 @@
-# 💰DonorFlow: A NGO Donation Tracking System
+# 💰DonorFlow: An NGO Donation Tracking System
 
 ## 🌟 Overview 
 
