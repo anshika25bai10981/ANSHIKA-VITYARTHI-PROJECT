@@ -67,4 +67,4 @@ Since the application has built-in sample data, you can test all features immedi
 
 * **Re-run option 2 to confirm the new entry appears.**
 
-* **Re-run option 4 to confirm the ```Total Donations Received``` figure has updated correctly.
+* **Re-run option 4 to confirm the ```Total Donations Received``` figure has updated correctly.**
