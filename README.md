@@ -68,3 +68,17 @@ Since the application has built-in sample data, you can test all features immedi
 * **Re-run option 2 to confirm the new entry appears.**
 
 * **Re-run option 4 to confirm the ```Total Donations Received``` figure has updated correctly.**
+
+
+  SCREENSHOTS
+
+
+  <img width="851" height="738" alt="Screenshot 2025-11-24 200005" src="https://github.com/user-attachments/assets/b31ceb29-7217-4f12-9f70-c84b6d5f8f94" />
+  <img width="825" height="685" alt="Screenshot 2025-11-24 200324" src="https://github.com/user-attachments/assets/ea73fca4-6c93-4178-a860-cbfed5c07204" />
+  <img width="592" height="900" alt="Screenshot 2025-11-24 200241" src="https://github.com/user-attachments/assets/78c29fca-6078-4408-8b5f-9886ed3e0199" />
+  <img width="598" height="905" alt="Screenshot 2025-11-24 200132" src="https://github.com/user-attachments/assets/069540f6-61c9-46ec-94e1-c8730d14e9cf" />
+  
+
+
+
+
